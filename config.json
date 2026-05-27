@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrave",
+        "uuid": 11613784,
+        "checksum": "qvua"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
